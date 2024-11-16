@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @repinek
-- 🌱 I’m currently learning Python and I want to learn JavaScript!
-- 📫 How to reach me: Discord/telegram: @repinek, Twitter: @repinek840
-- 🌍 Know 2 languages: Russian and English
+# Hi there! 👋 I'm repinek
+
+---
+
+## Who am I?  
+- A programmer experienced in **Python**, **C#**, and **TypeScript** 
+- Passionate about modding and exploring Unity games 
+- Specialize in reverse engineering C# programs, **Unity IL2CPP**, and **Mono** games  
+
+## What can I do?  
+- Analyze and modify game mechanics  
+- Create custom scripts and integrate with Unity  
+- Proficient in using **BepInEx** and **FRIDA** for modding and reverse engineering Unity games
+
+## How to contact me?  
+📫 You can find me anywhere with the nickname **@repinek**:  
+- **Discord**
+- **[Telegram](https://t.me/repinek)**  
+
 
 <!---
 repinek/repinek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
