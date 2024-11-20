@@ -3,6 +3,7 @@
 ---
 
 ## Who am I?  
+- ~~ultra shitcoder~~
 - A programmer experienced in **Python**, **C#**, and **TypeScript** 
 - Passionate about modding and exploring Unity games using **FRIDA** and **BepInEx**
 - Specialize in reverse engineering **C# programs**, **Unity IL2CPP**, and **Mono** games  
