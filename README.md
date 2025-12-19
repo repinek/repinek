@@ -4,7 +4,7 @@
 Creating things that didn't exist yet.  
 
 ## 🛠 Tech Stack
-<!--- A lot taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
+<!--- A lot badges taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
 ### 👨‍💻 Programming and Markup Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
@@ -92,20 +92,14 @@ Creating things that didn't exist yet.
 > *There's also a lot of private tools, experiments, and unfinished projects...*
 
 ## 📊 Stats
-<details>
-  <summary><b>Github stats</b></summary>
-  <br>
-
-  | Github Stats | Top Languages | Github Streak |
-  | :--- | :--- | :--- |
-  [![repinek's GitHub stats](https://github-readme-stats.vercel.app/api?username=repinek&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![repinek's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=repinek&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |   [![repinek's GitHub streak](https://streak-stats.demolab.com/?user=repinek&theme=catppuccin-mocha)](https://git.io/streak-stats) |
-
-</details>
+| Github Stats | Top Languages | Github Streak |
+| :--- | :--- | :--- |
+[![repinek's GitHub stats](https://github-readme-stats.vercel.app/api?username=repinek&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![repinek's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=repinek&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |   [![repinek's GitHub streak](https://streak-stats.demolab.com/?user=repinek&theme=catppuccin-mocha)](https://git.io/streak-stats) |
 
 ## 📬 Contact Me
 <p>
-  <a href="https://t.me/repinek"><img alt="Telegram"
-    src="https://img.shields.io/badge/repinek-2CA5E0?logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/wepinek"><img alt="Telegram"
+    src="https://img.shields.io/badge/wepinek-2CA5E0?logo=telegram&logoColor=white"></a>
   
   <img src="https://img.shields.io/badge/repinek-5865F2.svg?logo=discord&logoColor=white">
 </p>
