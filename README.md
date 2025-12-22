@@ -1,7 +1,12 @@
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
+  <h1>Hi there 👋</h1>
+  
+  **I'm repinek**, just some kind of developer passionate about **Game Modding**, **Coding Bots**, maybe a **little reverse engineering**.  
+  Creating things that didn't exist yet.  
+  
+  <img alt="repinek's Profile Views" src="https://komarev.com/ghpvc/?username=repinek&color=5865F2&label=Profile+Views"/>
+</div>
 
-**I'm repinek**, just some kind of developer passionate about **Game Modding**, maybe a **little reverse engineering**.  
-Creating things that didn't exist yet.  
 
 ## 🛠 Tech Stack
 <!--- A lot badges taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
