@@ -21,59 +21,62 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?logo=css&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   
-  little bit: 
+  <b>Basic Knowledge:</b> 
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"> 
 </p>
 
 ### ⚙️ Frameworks <sup>(clickable)</sup>
 <p>
   <!--- Big frameworks ---> 
-  <a href="https://github.com/nodejs/node" title="Node.js GitHub">
+  <a href="https://nodejs.org/" title="Official Node.js Website">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com/" title="Official .NET Website">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
-  <a href="https://www.riverbankcomputing.com/software/pyqt/" title="Official PyQt Website">
-    <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52.svg?logo=qt&logoColor=white"></a>
   <!--- Web Backend --->
-  <a href="https://github.com/expressjs/express" title="Express.js GitHub">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
-  <a href="https://github.com/pallets/flask" title="Flask GitHub">
+  <a href="https://flask.palletsprojects.com/" title="Official Flask Website">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-  <a href="https://github.com/websockets/ws" title="ws GitHub">
-    <img alt="ws" src="https://img.shields.io/badge/ws-000000.svg?logo=npm&logoColor=white"></a>
-  <a href="https://github.com/aiogram/aiogram" title="Aiogram GitHub"
-    ><img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0.svg?logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/Rapptz/discord.py" title="Discord.py GitHub">
+  <a href="https://docs.aiogram.dev/" title="Official Aiogram Documentation">
+    <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0.svg?logo=telegram&logoColor=white"></a>
+  <a href="https://discordpy.readthedocs.io/" title="Official Discord.py Documentation">
     <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
   <!--- Modding & RE --->
   <a href="https://unity.com/" title="Official Unity Website">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black"></a>
   <a href="https://docs.unity3d.com/Manual/IL2CPP.html" title="Official IL2CPP Documentation">
     <img alt="IL2CPP" src="https://img.shields.io/badge/IL2CPP-000000.svg?logo=unity&logoColor=white"></a>
-  <a href="https://github.com/frida/frida" title="Frida GitHub">
+  <a href="https://frida.re/" title="Official Frida Website">
     <img alt="Frida" src="https://img.shields.io/badge/-frida-ef6456?logo=data:image/svg+xml;base64,PHN2ZyAgIHZlcnNpb249IjEuMSIgICBpZD0iTGF5ZXJfMSIgICB4PSIwcHgiICAgeT0iMHB4IiAgIHZpZXdCb3g9IjAgMCA5LjcyOTk3OTkgMTAuOTM1NzEyIiAgIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDIwNC40IDM5IiAgIHhtbDpzcGFjZT0icHJlc2VydmUiICAgc29kaXBvZGk6ZG9jbmFtZT0ibG9nby5zdmciICAgd2lkdGg9IjkuNzI5OTc5NSIgICBoZWlnaHQ9IjEwLjkzNTcxMiIgICBpbmtzY2FwZTp2ZXJzaW9uPSIxLjEgKGNlNjY2M2IzYjcsIDIwMjEtMDUtMjUpIiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnMgICBpZD0iZGVmczkiIC8+PHNvZGlwb2RpOm5hbWVkdmlldyAgIGlkPSJuYW1lZHZpZXc3IiAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIgICBib3JkZXJjb2xvcj0iIzY2NjY2NiIgICBib3JkZXJvcGFjaXR5PSIxLjAiICAgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIiAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiICAgc2hvd2dyaWQ9ImZhbHNlIiAgIGZpdC1tYXJnaW4tdG9wPSIwIiAgIGZpdC1tYXJnaW4tbGVmdD0iMCIgICBmaXQtbWFyZ2luLXJpZ2h0PSIwIiAgIGZpdC1tYXJnaW4tYm90dG9tPSIwIiAgIGlua3NjYXBlOnpvb209IjYuOTE3ODA4NCIgICBpbmtzY2FwZTpjeD0iLTAuMTQ0NTU0NDUiICAgaW5rc2NhcGU6Y3k9Ii04LjYwMDk4OTkiICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIiAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwMDgiICAgaW5rc2NhcGU6d2luZG93LXg9IjAiICAgaW5rc2NhcGU6d2luZG93LXk9IjAiICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJMYXllcl8xIiAvPjxnICAgaWQ9Imc0IiAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiNmZmZmZmYiICAgdHJhbnNmb3JtPSJtYXRyaXgoMC4yODA0MDI4NiwwLDAsMC4yODA0MDI4NiwtMTEuNTgwNjM4LDApIj48cGF0aCAgIGZpbGw9IiNmZmZmZmYiICAgZD0iTSA1MS40LDM5IEggNDEuMyBMIDQ5LjcsMjYuMSBDIDQ0LjksMjMuOCA0Mi4zLDE5LjYgNDIuMywxMy41IDQyLjMsNC44IDQ4LjIsMCA1OC41LDAgSCA3NiBWIDM5IEggNjcgViAyOCBIIDU4LjUgNTcuNyBaIE0gNjcsMjAgViA3IGggLTguNSBjIC00LjksMCAtNy43LDIgLTcuNyw2LjQgMCw0LjUgMi44LDYuNiA3LjcsNi42IHoiICAgaWQ9InBhdGgyIiAgIHN0eWxlPSJmaWxsOiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg=="></a>
   <a href="https://github.com/vfsfitvnm/frida-il2cpp-bridge" title="frida-il2cpp-bridge GitHub">
     <img alt="frida-il2cpp-bridge" src="https://img.shields.io/badge/frida--il2cpp--bridge-000000.svg?logo=unity&logoColor=white"></a>
-  <a href="https://github.com/BepInEx/BepInEx" title="BepInEx GitHub">
+  <a href="https://docs.bepinex.dev/" title="Official BepInEx Documentation">
     <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-664235.svg?logo=unity&logoColor=white"></a>
   <!--- Compilers & Package Managers ---> 
-  <a href="https://github.com/vitejs/vite" title="Vite GitHub">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
-  <a href="https://github.com/webpack/webpack" title="Webpack GitHub">
+  <a href="https://webpack.js.org/" title="Official Webpack Website">
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black"></a>
-  <a href="https://github.com/npm/cli" title="npm CLI GitHub">
+  <a href="https://www.npmjs.com/" title="Official npm Website">
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
-  <a href="https://github.com/astral-sh/uv" title="uv GitHub">
+  <a href="https://docs.astral.sh/uv/" title="Official uv Documentation">
     <img alt="uv" src="https://img.shields.io/badge/uv-DE5FE5.svg?logo=uv&logoColor=white"></a>
   <!-- Linters & Formatters -->
-  <a href="https://github.com/eslint/eslint" title="ESLint GitHub">
+  <a href="https://eslint.org/" title="Official ESLint Website">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white"></a>
-  <a href="https://github.com/prettier/prettier" title="Prettier GitHub">
+  <a href="https://prettier.io/" title="Official Prettier Website">
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black"></a>
-  <a href="https://github.com/biomejs/biome" title="Biome GitHub">
-    <img alt="Biome" src="https://img.shields.io/badge/Biome-60A5FA.svg?logo=biome&logoColor=white"></a>
-  <a href="https://github.com/astral-sh/ruff" title="Ruff GitHub">
+  <a href="https://docs.astral.sh/ruff/" title="Official Ruff Documentation">
     <img alt="Ruff" src="https://img.shields.io/badge/Ruff-000000.svg?logo=ruff&logoColor=white"></a>
+
+  <b>Basic Knowledge:</b>
+  <a href="https://www.riverbankcomputing.com/software/pyqt/" title="Official PyQt Website">
+    <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52.svg?logo=qt&logoColor=white"></a>
+  <a href="https://biomejs.dev/" title="Official Biome Website">
+    <img alt="Biome" src="https://img.shields.io/badge/Biome-60A5FA.svg?logo=biome&logoColor=white"></a>
+  <a href="https://expressjs.com/" title="Official Express.js Website">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+  <a href="https://github.com/websockets/ws" title="ws GitHub Repository">
+    <img alt="ws" src="https://img.shields.io/badge/ws-000000.svg?logo=npm&logoColor=white"></a>
+  <a href="https://vite.dev/" title="Official Vite Website">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
+    
 </p>
 
 ### 💻 Software and Tools
@@ -82,7 +85,6 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
   <img alt="LineageOS" src="https://img.shields.io/badge/LineageOS-167C80.svg?logo=lineageos&logoColor=white">
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139.svg?logo=firefox-browser&logoColor=white">
 
   <!-- IDEs -->
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
