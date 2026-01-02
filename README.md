@@ -33,7 +33,7 @@
   <a href="https://dotnet.microsoft.com/" title="Official .NET Website">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
   <!--- Web Backend --->
-  <a href="https://flask.palletsprojects.com/" title="Official Flask Website">
+  <a href="https://flask.palletsprojects.com/" title="Official Flask Documentation">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
   <a href="https://docs.aiogram.dev/" title="Official Aiogram Documentation">
     <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0.svg?logo=telegram&logoColor=white"></a>
@@ -115,7 +115,7 @@
     
 <br>
 
-> *There's also a lot of private tools, experiments, and unfinished projects...*
+> *There's also a lot of private tools, experiments, WIP and unfinished projects...*
 
 ## 📊 Stats
 | Github Stats | Top Languages | Github Streak |
