@@ -106,9 +106,10 @@
 ## 📂 Projects
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
+    * Fall Guys PC Cheat - Internal cheat written in C++ using ImGui. Featured a custom game-specific anti-cheat bypass (user-mode) and a lightweight proprietary injector written in C++ too. *(Discontinued paid project)*
     * [Fall Guys Server Changer](https://github.com/repinek/fallguys-server-changer) - Network traffic redirector scripts for Fall Guys private servers.
     * [FG Archive](https://floyzi.github.io/fg_archive/) - A Fall Guys Builds Archive.
-    * [ImgToFGC](https://github.com/repinek/ImgToFGC) - Converts any image to Fall Guys Creative Level. *(My first project and code is kinda bad, dont blame me xd)*
+    * [ImgToFGC](https://github.com/repinek/ImgToFGC) - Converts any image to Fall Guys Creative Level. *(My first unique project and code is kinda bad, dont blame me xd)*
 
 * **Telegram:** 
     * [Xiaomi IMEI Checker Telegram Bot](https://github.com/repinek/XiaomiIMEICheckerTelegramBot) - A Telegram bot to check Xiaomi device info by IMEI or S/N.
