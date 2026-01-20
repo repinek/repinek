@@ -8,7 +8,7 @@
 </div>
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 <!--- A lot badges taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
 ### 👨‍💻 Programming and Markup Languages
 <p>
@@ -25,6 +25,9 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"> 
 </p>
 
+<details>
+  <summary>Frameworks and Tools (click to expand)</summary>
+  
 ### ⚙️ Frameworks <sup>(clickable)</sup>
 <p>
   <!--- Big frameworks ---> 
@@ -102,7 +105,8 @@
   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-6e5494.svg?logo=github&logoColor=white">
 </p>
 
-
+</details>
+  
 ## 📂 Projects
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
