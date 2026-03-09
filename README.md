@@ -81,30 +81,6 @@
     <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
     
 </p>
-
-### 💻 Software and Tools
-<p>
-  <!-- OS -->
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
-  <img alt="LineageOS" src="https://img.shields.io/badge/LineageOS-167C80.svg?logo=lineageos&logoColor=white">
-
-  <!-- IDEs -->
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white">
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699.svg?logo=obsidian&logoColor=white">
-
-  <!-- Reverse Engineering -->
-  <img alt="IDA Pro" src="https://img.shields.io/badge/IDA%20Pro-1E252B.svg?logo=hex-rays&logoColor=white">
-  <img alt="dnSpy" src="https://img.shields.io/badge/dnSpy-000000.svg?logo=c%2B%2B&logoColor=white">
-  <img alt="ILSpy" src="https://img.shields.io/badge/ILSpy-c6ccd5.svg?logo=c%2B%2B&logoColor=black">
-
-  <!-- Utils -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
-  <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-6e5494.svg?logo=github&logoColor=white">
-</p>
-
 </details>
   
 ## 📂 Projects
