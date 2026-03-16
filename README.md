@@ -93,7 +93,9 @@
 
 * **Telegram:** 
     * [Xiaomi IMEI Checker Telegram Bot](https://github.com/repinek/XiaomiIMEICheckerTelegramBot) - A Telegram bot to check Xiaomi device info by IMEI or S/N.
-    
+    * [LegacyGram](https://github.com/repinek/LegacyGram) - A highly customizable plugin for [exteraGram](https://exteragram.app/) based clients to remove paid and bloated features from the Android Telegram client
+
+
 <br>
 
 > *There's also a lot of private tools, experiments, WIP and unfinished projects...*
