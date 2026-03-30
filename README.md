@@ -22,7 +22,9 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   
   <b>Basic Knowledge:</b> 
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"> 
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
 </p>
 
 <details>
@@ -40,8 +42,15 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
   <a href="https://docs.aiogram.dev/" title="Official Aiogram Documentation">
     <img alt="Aiogram" src="https://img.shields.io/badge/Aiogram-2CA5E0.svg?logo=telegram&logoColor=white"></a>
+  <a href="https://kurigram.icu/" title="Kurigram (Pyrogram)">
+    <img alt="Pyrogram" src="https://img.shields.io/badge/Pyrogram-3390EC.svg?logo=telegram&logoColor=white"></a>
   <a href="https://discordpy.readthedocs.io/" title="Official Discord.py Documentation">
     <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
+  <!--- Databases --->
+  <a href="https://www.mongodb.com/" title="Official MongoDB Website">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="https://www.sqlite.org/" title="Official SQLite Website">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
   <!--- Modding & RE --->
   <a href="https://unity.com/" title="Official Unity Website">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black"></a>
@@ -69,6 +78,8 @@
     <img alt="Ruff" src="https://img.shields.io/badge/Ruff-000000.svg?logo=ruff&logoColor=white"></a>
 
   <b>Basic Knowledge:</b>
+  <a href="https://github.com/ocornut/imgui" title="Official Dear ImGui GitHub">
+    <img alt="Dear ImGui" src="https://img.shields.io/badge/Dear%20ImGui-000000.svg?logo=imgui&logoColor=white"></a>
   <a href="https://www.riverbankcomputing.com/software/pyqt/" title="Official PyQt Website">
     <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52.svg?logo=qt&logoColor=white"></a>
   <a href="https://biomejs.dev/" title="Official Biome Website">
