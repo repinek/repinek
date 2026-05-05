@@ -98,6 +98,7 @@
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
     * Fall Guys PC Cheat - Internal cheat written in C++ with External ImGui Screen Proof overlay. Featured a custom game-specific anti-cheat bypass (user-mode) and a lightweight proprietary injector written in Rust. *(paid project)*
+    * [SonolusReverse](https://github.com/repinek/SonolusReverse) - Mod for the [Sonolus](https://sonolus.com/) rhythm game with extra features, written using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
     * [Fall Guys Server Changer](https://github.com/repinek/fallguys-server-changer) - Network traffic redirector scripts for Fall Guys private servers.
     * [FG Archive](https://floyzi.github.io/fg_archive/) - A Fall Guys Builds Archive.
     * [ImgToFGC](https://github.com/repinek/ImgToFGC) - Converts any image to Fall Guys Creative Level. *(My first unique project and code is kinda bad, dont blame me xd)*
@@ -106,8 +107,8 @@
     * [Xiaomi IMEI Checker Telegram Bot](https://github.com/repinek/XiaomiIMEICheckerTelegramBot) - A Telegram bot to check Xiaomi device info by IMEI or S/N.
     * [LegacyGram](https://github.com/repinek/LegacyGram) - A highly customizable plugin for [exteraGram](https://exteragram.app/) based clients to remove paid and bloated features from the Android Telegram client
 
-
-<br>
+* **Other:**
+    * [My Stars Lists](https://github.com/repinek?tab=stars) - 200+ repositories categorized, including Reverse Engineering, Linux & Windows & Android Apps, Android Modding, Game Modding, Private servers, emulators and etc...
 
 > *There's also a lot of private tools, experiments, WIP and unfinished projects...*
 
