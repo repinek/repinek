@@ -115,7 +115,9 @@
 ## 📊 Stats
 | Github Stats | Top Languages | Github Streak |
 | :--- | :--- | :--- |
-[![repinek's GitHub stats](https://github-readme-stats-repinek.vercel.app/api?username=repinek&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![repinek's Top languages](https://github-readme-stats-repinek.vercel.app/api/top-langs/?username=repinek&layout=compact&theme=catppuccin_mocha&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) |   [![repinek's GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=repinek&theme=catppuccin_mocha)](https://github.com/pranesh-2005/github-readme-stats-fast) |
+[![repinek's GitHub stats](https://github-readme-stats-repinek.vercel.app/api?username=repinek&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![repinek's Top languages](https://github-readme-stats-repinek.vercel.app/api/top-langs/?username=repinek&layout=compact&theme=catppuccin_mocha&exclude_repo=github-readme-stats&hide=c)](https://github.com/anuraghazra/github-readme-stats) |   [![repinek's GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=repinek&theme=catppuccin_mocha)](https://github.com/pranesh-2005/github-readme-stats-fast) |
+
+> **NOTE:** *Top languages is quite false, it's not counting Organizations*
 
 ## 📬 Contact Me
 <p>
