@@ -10,6 +10,13 @@
 
 ## 🛠 Tech Stack  
 <!--- A lot badges taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
+
+<!--- 
+Idk, maybe put this into a spoiler
+<details> 
+  <summary>Click to expand</summary>  
+--->
+
 ### 👨‍💻 Programming and Markup Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
@@ -93,8 +100,13 @@
     
 </p>
 </details>
+
+## 📂 Projects 
+<!--
+<details>
+  <summary>(click to expand)</summary>
+  -->
   
-## 📂 Projects
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
     * Fall Guys PC Cheat - Internal cheat written in C++ with External ImGui Screen Proof overlay. Featured a custom game-specific anti-cheat bypass (user-mode) and a lightweight proprietary injector written in Rust. *(paid project)*
@@ -110,8 +122,13 @@
 
 * **Other:**
     * [My Stars Lists](https://github.com/repinek?tab=stars) - 200+ repositories categorized, including Reverse Engineering, Linux & Windows & Android Apps, Android Modding, Game Modding, Private servers, emulators and etc...
+    * [My NixOS dotfiles](https://github.com/repinek/nixos-dotfiles) - Declarative [NixOS](https://nixos.org) config for personal use.
 
 > *There's also a lot of private tools, experiments, WIP and unfinished projects...*
+
+<!--
+</details>
+-->
 
 ## 📊 Stats
 | Github Stats | Top Languages | Github Streak |
@@ -127,6 +144,8 @@
   
   <img src="https://img.shields.io/badge/repinek-5865F2.svg?logo=discord&logoColor=white">
 </p>
+
+<!--
 
 <div align="center">
   
@@ -161,3 +180,5 @@
 ⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   ```
 </details>
+
+-->
