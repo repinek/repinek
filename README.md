@@ -15,14 +15,16 @@
 Idk, maybe put this into a spoiler
 <details> 
   <summary>Click to expand</summary>  
---->
 
 ### 👨‍💻 Programming and Markup Languages
+--->
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <img alt="NIx" src="https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white">
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?logo=css&logoColor=white">
@@ -34,17 +36,22 @@ Idk, maybe put this into a spoiler
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
 </p>
 
+<!---
 <details>
   <summary>Frameworks and Tools (click to expand)</summary>
   
 ### ⚙️ Frameworks <sup>(clickable)</sup>
 <p>
+---> 
   <!--- Big frameworks ---> 
+  <!---
   <a href="https://nodejs.org/" title="Official Node.js Website">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com/" title="Official .NET Website">
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
+  ---> 
   <!--- Web Backend --->
+  <!---
   <a href="https://flask.palletsprojects.com/" title="Official Flask Documentation">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
   <a href="https://docs.aiogram.dev/" title="Official Aiogram Documentation">
@@ -53,12 +60,16 @@ Idk, maybe put this into a spoiler
     <img alt="Pyrogram" src="https://img.shields.io/badge/Pyrogram-3390EC.svg?logo=telegram&logoColor=white"></a>
   <a href="https://discordpy.readthedocs.io/" title="Official Discord.py Documentation">
     <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
+  --->
   <!--- Databases --->
+  <!--
   <a href="https://www.mongodb.com/" title="Official MongoDB Website">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
   <a href="https://www.sqlite.org/" title="Official SQLite Website">
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+  --->
   <!--- Modding & RE --->
+  <!--
   <a href="https://unity.com/" title="Official Unity Website">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black"></a>
   <a href="https://docs.unity3d.com/Manual/IL2CPP.html" title="Official IL2CPP Documentation">
@@ -69,21 +80,26 @@ Idk, maybe put this into a spoiler
     <img alt="frida-il2cpp-bridge" src="https://img.shields.io/badge/frida--il2cpp--bridge-000000.svg?logo=unity&logoColor=white"></a>
   <a href="https://docs.bepinex.dev/" title="Official BepInEx Documentation">
     <img alt="BepInEx" src="https://img.shields.io/badge/BepInEx-664235.svg?logo=unity&logoColor=white"></a>
-  <!--- Compilers & Package Managers ---> 
+  --->
+  <!--- Compilers & Package Managers --->
+  <!--
   <a href="https://webpack.js.org/" title="Official Webpack Website">
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black"></a>
   <a href="https://www.npmjs.com/" title="Official npm Website">
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
   <a href="https://docs.astral.sh/uv/" title="Official uv Documentation">
     <img alt="uv" src="https://img.shields.io/badge/uv-DE5FE5.svg?logo=uv&logoColor=white"></a>
+  --->
   <!-- Linters & Formatters -->
+  <!--
   <a href="https://eslint.org/" title="Official ESLint Website">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white"></a>
   <a href="https://prettier.io/" title="Official Prettier Website">
     <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black"></a>
   <a href="https://docs.astral.sh/ruff/" title="Official Ruff Documentation">
     <img alt="Ruff" src="https://img.shields.io/badge/Ruff-000000.svg?logo=ruff&logoColor=white"></a>
-
+  
+  <!--
   <b>Basic Knowledge:</b>
   <a href="https://github.com/ocornut/imgui" title="Official Dear ImGui GitHub">
     <img alt="Dear ImGui" src="https://img.shields.io/badge/Dear%20ImGui-000000.svg?logo=imgui&logoColor=white"></a>
@@ -100,12 +116,11 @@ Idk, maybe put this into a spoiler
     
 </p>
 </details>
+--->
 
 ## 📂 Projects 
-<!--
 <details>
   <summary>(click to expand)</summary>
-  -->
   
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
@@ -123,12 +138,11 @@ Idk, maybe put this into a spoiler
 * **Other:**
     * [My Stars Lists](https://github.com/repinek?tab=stars) - 200+ repositories categorized, including Reverse Engineering, Linux & Windows & Android Apps, Android Modding, Game Modding, Private servers, emulators and etc...
     * [My NixOS dotfiles](https://github.com/repinek/nixos-dotfiles) - Declarative [NixOS](https://nixos.org) config for personal use.
+    * [Noctalia Plugins](https://github.com/repinek/noctalia-plugins) - My own plugins for [Noctalia Shell v5](https://github.com/noctalia-dev/noctalia)
 
 > *There's also a lot of private tools, experiments, WIP and unfinished projects...*
 
-<!--
 </details>
--->
 
 ## 📊 Stats
 | Github Stats | Top Languages | Github Streak |
