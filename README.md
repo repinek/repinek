@@ -38,7 +38,7 @@
     * [SonolusReverse](https://github.com/repinek/SonolusReverse) - Mod for the [Sonolus](https://sonolus.com/) rhythm game with extra features, written using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
     * [Frida Il2cpp Proto Dumper](https://github.com/repinek/frida-il2cpp-proto-dumper) - Dumps protobuf-net messages and enums from an IL2CPP Unity game into a valid .proto file using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
     * [Fall Guys Server Changer](https://github.com/repinek/fallguys-server-changer) - Network traffic redirector scripts for Fall Guys private servers.
-    * [FG Archive](https://floyzi.github.io/fg_archive/) - A Fall Guys Builds Archive.
+    * [FG Archive](https://github.com/Obed-Guys-Corp/fg-archive) - Website of the Fall Guys builds archive.
     * [ImgToFGC](https://github.com/repinek/ImgToFGC) - Converts any image to Fall Guys Creative Level. *(My first unique project and code is kinda bad, dont blame me xd)*
 
 * **Telegram:** 
