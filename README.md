@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi there 👋</h1>
   
-  **I'm repinek**, just some kind of developer passionate about **Game Modding**, **Coding Bots**, maybe a **little reverse engineering**.  
-  Creating things that didn't exist yet.  
+  **I'm repinek**, just some kind of developer interested in **Game Modding**, **Bot development**, maybe a **little reverse engineering**.  
   
   <img alt="repinek's Profile Views" src="https://komarev.com/ghpvc/?username=repinek&color=5865F2&label=Profile+Views"/>
 </div>
@@ -12,33 +11,33 @@
 <!--- A lot badges taken from https://github.com/Ileriayo/markdown-badges and https://github.com/henriquesebastiao/badges --->
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
   <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3.svg?logo=NixOS&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?logo=css&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   
-  <b>Basic Knowledge:</b> 
+  <b>Familiar with:</b> 
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=black">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"> 
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
 </p>
 
-## 📂 Projects 
+## Other
 <details>
-  <summary>(click to expand)</summary>
+  <summary>📂 Projects (click to expand)</summary>
   
 * **Game Modding & RE**:  
     * [Fall Guys Frida Mod Menu](https://github.com/repinek/fallguys-frida-modmenu) - Android Fall Guys mod menu using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
-    * Fall Guys PC Cheat - Internal cheat written in C++ with External ImGui Screen Proof overlay. Featured a custom game-specific anti-cheat bypass (user-mode) and a lightweight proprietary injector written in Rust. *(paid project)*
+    * Fall Guys PC Cheat - Internal cheat written in C++ with External ImGui Screen Proof overlay. Custom game-specific anti-cheat bypass (user-mode) and Rust injector. *(paid project)*
     * [SonolusReverse](https://github.com/repinek/SonolusReverse) - Mod for the [Sonolus](https://sonolus.com/) rhythm game with extra features, written using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
-    * [Frida Il2cpp Proto Dumper](https://github.com/repinek/frida-il2cpp-proto-dumper) - Dumps protobuf-net messages and enums from an IL2CPP Unity game into a valid .proto file using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
-    * [Fall Guys Server Changer](https://github.com/repinek/fallguys-server-changer) - Network traffic redirector scripts for Fall Guys private servers.
     * [FG Archive](https://github.com/Obed-Guys-Corp/fg-archive) - Website of the Fall Guys builds archive.
+    * [Frida Il2cpp Proto Dumper](https://github.com/repinek/frida-il2cpp-proto-dumper) - Dumps protobuf-net messages and enums from an IL2CPP Unity game into a valid `.proto` file using [Frida](https://frida.re/) and [frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge).
+    * [Fall Guys Server Changer](https://github.com/repinek/fallguys-server-changer) - Network traffic redirector scripts for Fall Guys private servers.
     * [ImgToFGC](https://github.com/repinek/ImgToFGC) - Converts any image to Fall Guys Creative Level. *(My first unique project and code is kinda bad, dont blame me xd)*
 
 * **Telegram:** 
@@ -54,12 +53,16 @@
 
 </details>
 
-## 📊 Stats
+<details>
+  <summary>📊 Stats (click to expand)</summary>
+  
 | Github Stats | Top Languages | Github Streak |
 | :--- | :--- | :--- |
 [![repinek's GitHub stats](https://github-readme-stats-repinek.vercel.app/api?username=repinek&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![repinek's Top languages](https://github-readme-stats-repinek.vercel.app/api/top-langs/?username=repinek&layout=compact&theme=catppuccin_mocha&exclude_repo=github-readme-stats&hide=c)](https://github.com/anuraghazra/github-readme-stats) |   [![repinek's GitHub streak](https://github-readme-stats-fast.vercel.app/api/streak?username=repinek&theme=catppuccin_mocha)](https://github.com/pranesh-2005/github-readme-stats-fast) |
 
 > **NOTE:** *Top languages is quite false, it's not counting Organizations*
+
+</details>
 
 ## 📬 Contact Me
 <p>
